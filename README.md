@@ -1,5 +1,4 @@
-````markdown name=README.md
-# msgFlooder (消息轰炸器)
+# msgFlooder 刷屏机
 
 [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
